@@ -13,7 +13,8 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 
 ## 📸 Evidência de Execução
-<img width="593" height="336" alt="image" src="https://github.com/user-attachments/assets/5dd2f50e-e103-4c35-953c-8b0a05e8053b" />
+<img width="605" height="340" alt="image" src="https://github.com/user-attachments/assets/75f8421a-5b2a-416f-bbfb-002dd143c064" />
+
 
 
 
